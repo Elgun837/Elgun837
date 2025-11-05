@@ -1,7 +1,5 @@
 <h3 align="center">A passionate full-stack developer from Azerbaijan.</h3>
 
-- 🌱 I’m currently learning **React Native**
-
 - 📫 How to reach me **elgun.xalilov@bk.ru**
 
 - https://elgun837.github.io/react-portfolio/ 
